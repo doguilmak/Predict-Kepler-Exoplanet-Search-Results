@@ -31,7 +31,7 @@ In this project, as stated in the title, results were obtained through **XGBoost
 Please run the ***console_kepler_output.html*** HTML file to examine more statistical data about the dataset and see the output on the console. You can run the HTML file in your browser by selecting which browser you are using in the ***RUN*** tab of **Notepad++**. File has output of ***kepler_expo_ANN.py*** and ***kepler_expo_XGBoost.py***.
 
 <p align="center">
-    <img src="Plots/heatmap.png"> 
+    <img width="400" height="600" src="Plots/heatmap.png"> 
 </p>
 
 ---
