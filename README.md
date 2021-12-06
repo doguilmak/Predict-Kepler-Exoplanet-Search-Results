@@ -31,7 +31,7 @@ In this project, as stated in the title, results were obtained through **XGBoost
 Please run the ***console_kepler_output.html*** HTML file to examine more statistical data about the dataset and see the output on the console. You can run the HTML file in your browser by selecting which browser you are using in the ***RUN*** tab of **Notepad++**. File has output of ***kepler_expo_ANN.py*** and ***kepler_expo_XGBoost.py***.
 
 <p align="center">
-    <img width="400" height="600" src="Plots/heatmap.png"> 
+    <img src="Plots/heatmap.png"> 
 </p>
 
 ---
@@ -59,7 +59,7 @@ The estimated data was made on the first row in the data set. Actual result is *
 XGBoost or extreme gradient boosting is one of the well-known gradient boosting techniques(ensemble) having enhanced performance and speed in **tree-based** (sequential decision trees) machine learning algorithms.
 
 <p align="center">
-    <img src="Plots/XGBoost_Tree.png"> 
+    <img width="700" height="700" src="Plots/XGBoost_Tree.png"> 
 </p>
 
 Confusion Matrix(XGBoost):
