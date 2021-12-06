@@ -59,7 +59,7 @@ The estimated data was made on the first row in the data set. Actual result is *
 XGBoost or extreme gradient boosting is one of the well-known gradient boosting techniques(ensemble) having enhanced performance and speed in **tree-based** (sequential decision trees) machine learning algorithms.
 
 <p align="center">
-    <img width="700" height="700" src="Plots/XGBoost_Tree.png"> 
+    <img src="Plots/XGBoost_Tree.png"> 
 </p>
 
 Confusion Matrix(XGBoost):
