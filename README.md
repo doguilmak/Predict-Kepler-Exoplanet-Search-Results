@@ -5,7 +5,7 @@
 
 The purpose of this study is based on the available data, it was estimated whether **disposition (koi_disposition)** are ***CONFIRMED***, ***FALSE POSITIVE*** or ***CANDIDATE***. 
 
-In addition, the koi_score value was estimated using the multiple linear regression model. To review this work, please review the file named **kepler_exoplanet_koi_score.ipynb**.
+In addition, the `koi_score` value was estimated using the multiple linear regression model. To review this work, please review the file named **kepler_exoplanet_koi_score.ipynb**.
 
 ## Dataset
 
