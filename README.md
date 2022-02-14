@@ -1,5 +1,5 @@
 
-# Predicting Disposition from Kepler Exoplanet Search Results with Using XGBoost and Artificial Neural Networks 
+# Predicting Disposition with XGBoost and Artificial Neural Networks and koi_score with Multiple Linear Regression
 
 ## Problem Statement
 
