@@ -1,5 +1,5 @@
 
-# Predicting Disposition with XGBoost and Artificial Neural Networks and koi_score with Multiple Linear Regression
+# Predicting Disposition with XGBoost and Artificial Neural Networks and the Confidence in the KOI Disposition with Multiple Linear Regression
 
 ## Problem Statement
 
