@@ -81,7 +81,7 @@ CC0: Public Domain
 
 <br>
 	
-Confusion Matrix (XGBoost):
+<b>Confusion Matrix (XGBoost):</b>
 
 $$
 \begin{matrix}  
