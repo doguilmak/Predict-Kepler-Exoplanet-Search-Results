@@ -96,7 +96,7 @@ Model predicted class as [0].
 
 Process took 5.090279579162598 seconds.
 
----
+<br>
 
 <h3>Artificial Neural Networks</h3>
 
