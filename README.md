@@ -80,6 +80,7 @@ CC0: Public Domain
 </p>
 
 Confusion Matrix (XGBoost):
+
 $$
 \begin{matrix}  
 598 & 115 & 16\\ 
