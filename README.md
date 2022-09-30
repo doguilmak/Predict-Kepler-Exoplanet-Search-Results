@@ -55,7 +55,7 @@ CC0: Public Domain
 
 <br>
 
-<h2> Objective for this Notebook</h2>
+<h2> Objective of the Notebook</h2>
 
 <p>The purpose of this <a  href="https://github.com/doguilmak/Predict-Kepler-Exoplanet-Search-Results/blob/main/kepler_exoplanet_koi_score.ipynb" target="_blanck">study</a> is based on the available data, we had tried to predict <code>koi_score</code> based on independent variables.  In addition, The purpose of this <a  href="https://github.com/doguilmak/Predict-Kepler-Exoplanet-Search-Results/blob/main/kepler_expo_ANN.py" target="_blanck">study</a> is based on the available data, it was estimated whether disposition (<code>koi_disposition</code>) are CONFIRMED, FALSE POSITIVE or CANDIDATE.</p>
 
