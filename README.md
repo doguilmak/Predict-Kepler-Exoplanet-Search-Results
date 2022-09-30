@@ -79,6 +79,8 @@ CC0: Public Domain
     <img src="Plots/XGBoost_Tree.png"> 
 </p>
 
+<br>
+	
 Confusion Matrix (XGBoost):
 
 $$
