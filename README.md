@@ -92,10 +92,12 @@ $$
 $$
 
 <b>Prediction of XGBoost:</b>
+
 Model predicted as CANDIDATE.
+
 Model predicted class as [0].
 
-<b>Accuracy score (XGBoost): 0.9033892936331961</b>
+Accuracy score (XGBoost): 0.9033892936331961
 
 Process took 5.090279579162598 seconds.
 
