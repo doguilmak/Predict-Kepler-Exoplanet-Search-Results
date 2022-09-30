@@ -93,10 +93,6 @@ $$
 
 <b>Prediction of XGBoost:</b>
 
-Model predicted as CANDIDATE.
-
-Model predicted class as [0].
-
 Accuracy score (XGBoost): 0.9033892936331961
 
 Process took 5.090279579162598 seconds.
@@ -110,8 +106,6 @@ Process took 5.090279579162598 seconds.
 | ![val_acc](Plots/model_acc.png) | ![val_loss](Plots/model_loss.png) |
 
 <b>Prediction of Artificial Neural Networks:</b>
-
-Model predicted as CONFIRMED.
 
 Mean of validation accuracy: 0.8379785418510437
 
